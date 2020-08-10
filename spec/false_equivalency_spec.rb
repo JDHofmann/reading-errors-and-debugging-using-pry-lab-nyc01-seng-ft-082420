@@ -5,6 +5,6 @@ describe "false_equivalency" do
     expect(selection(1)).to eq("YUM YUM MUNCH MUNCH MUNCH")
     expect(selection(2)).to eq("HAM HAM HAM IN MY TUMMY")
   end
-      binding.pry
+ #     binding.pry
 
 end
